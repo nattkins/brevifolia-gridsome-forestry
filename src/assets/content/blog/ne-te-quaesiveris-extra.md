@@ -1,7 +1,7 @@
 ---
 title: Business Readiness
 author: Adam Walls
-date: 2019-08-09T07:00:00.000+00:00
+date: 2020-01-08T08:00:00Z
 hero_image: "/src/assets/content/images/jason-dent-3TuIIkWlpvA-unsplash.jpg"
 
 ---
