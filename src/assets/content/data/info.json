@@ -1,9 +1,9 @@
 {
   "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://gridsome.org/\" title=\"Gatsby Link\">Gridsome</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "cta": "<p>The people who think systemically and scope cleanly will always give you a better service than those that don’t.</p><p class=\"p1\">Understanding doesn’t come through knowledge it comes through perspective. Getting as close to your problems as you are means we can only see what you do. We spend a little time understanding your problem in it’s context and from that we can diagnose a solution. By clean scoping we can understand exactly what you want to achieve, once we have passed on that understanding.</p><p class=\"p1\">Knowing exactly what you want to achieve means we can give you that much faster than most. That means you only pay for the minimum resource from us, for the minimal amount of time.</p><p class=\"p1\">We are so sure , we typically work at fixed price, rather than time and materials. As long as you let us prepare your organisation for what we need, we will get the job done, in a timely fashion</p><p class=\"p2\">We call that being Refreshing Frank</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
+    "email": "hello@refreshingly.info",
+    "twitter_handle": "refreshinglyF",
     "github_handle": "forestryio"
   },
   "background_color": "#B1BCBC",
