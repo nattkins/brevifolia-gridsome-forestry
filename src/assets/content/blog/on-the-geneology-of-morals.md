@@ -5,9 +5,7 @@ date: 2019-08-19T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 
 ---
-S
-
-# “What, from an etymological perspective, do the meanings of “Good” as manifested in different languages really mean?”
+“What, from an etymological perspective, do the meanings of “Good” as manifested in different languages really mean?”
 
 A picture of a bike
 
