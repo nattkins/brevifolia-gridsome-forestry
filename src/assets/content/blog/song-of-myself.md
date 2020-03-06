@@ -1,5 +1,5 @@
 ---
-title: A First Edit
+title: Clean Scoping
 author: Neville Attkins
 date: 2019-07-19T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
