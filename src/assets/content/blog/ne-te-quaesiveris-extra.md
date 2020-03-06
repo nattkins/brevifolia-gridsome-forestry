@@ -1,7 +1,7 @@
 ---
-title: Ne te quaesiveris extra
-author: Ralph Waldo Emerson
-date: 2019-08-09T07:00:00Z
+title: Here is another heading
+author: Neville Attkins
+date: 2019-08-09T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash-1.jpg"
 
 ---
