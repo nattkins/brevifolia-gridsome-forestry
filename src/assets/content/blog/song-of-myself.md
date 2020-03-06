@@ -5,16 +5,9 @@ date: 2019-07-19T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
 ---
-Here we go how does this sound
+We owe a great deal to Caitlin Walker who invented Clean Scoping; the idea being to ask a few 'clean' questions which focus on the problem that we are hoping to scope and using the answers as evidence she proceeds to draw some testable inferences. This sounds innocuous enough but her contention is that within the framing of the problem there is highly likely to be a contradiction, problems are most always contradictions if you think of your own life, its I want more money but I'm spending too much time at work, or why can't I find time to be more spontaneous) 
 
+The point of the inference is to present this with curiosity to the potential client to see if they see the contradiction - if they do and are able to update their model sufficiently then the scoping has been a success, if not Walker then assumes that this client is either able or willing now to do the work necessary at the moment.    
+
+  
 ![](/src/assets/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
-
-Lack one lacks both, and the unseen is proved by the seen,  
-Till that becomes unseen and receives proof in its turn.
-
-Showing the best and dividing it from the worst age vexes age,  
-Knowing the perfect fitness and equanimity of things, while they discuss I am silent, and go bathe and admire myself.
-
-Welcome is every organ and attribute of me, and of any man hearty and clean, Not an inch nor a particle of an inch is vile, and none shall be less familiar than the rest.
-
-I am satisfied—I see, dance, laugh, sing; As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the peep of the day with stealthy tread. Leaving me baskets cover’d with white towels swelling the house with their plenty, Shall I postpone my acceptation and realization and scream at my eyes, That they turn from gazing after and down the road, And forthwith cipher and show me to a cent, Exactly the value of one and exactly the value of two, and which is ahead?
