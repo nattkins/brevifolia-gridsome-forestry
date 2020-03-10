@@ -131,7 +131,7 @@
       }
       li {
         min-height: 250px;
-        height: 33.333vh;
+        height: 24vh;
         flex-direction: row;
       }
       .hero_image {
