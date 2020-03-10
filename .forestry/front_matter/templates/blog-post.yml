@@ -25,6 +25,7 @@ fields:
   name: hero_image
   label: hero_image
 pages:
+- src/assets/content/blog/bananas.md
 - src/assets/content/blog/ne-te-quaesiveris-extra.md
 - src/assets/content/blog/on-the-geneology-of-morals.md
 - src/assets/content/blog/song-of-myself.md
