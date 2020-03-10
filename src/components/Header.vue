@@ -6,8 +6,8 @@
             </g-link>
             <div>
                 <h1>
-                    <g-link :to="infoLink">
-                        {{ isInfoPage ? "close" : "info" }}
+                    <g-link :to="contactLink">
+                        {{ isContactPage ? "close" : "contact" }}
                     </g-link>
                 </h1>
             </div>
@@ -24,11 +24,11 @@ export default {
         }
     },
     computed: {
-        isInfoPage() {
-            return this.page === "info" && true
+        isContactPage() {
+            return this.page === "contact" && true
         },
-        infoLink() {
-            return this.isInfoPage ? "/" : "/info"
+        contactLink() {
+            return this.isInfoPage ? "/" : "/contact"
         }, 
     }
 }
