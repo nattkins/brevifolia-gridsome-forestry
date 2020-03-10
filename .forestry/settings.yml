@@ -17,7 +17,7 @@ sections:
   path: src/assets/content/data/authors.json
   label: Authors List
 - type: document
-  path: src/assets/content/data/info.json
+  path: src/assets/content/data/contact.json
   label: Info Page
 - type: heading
   label: Config
